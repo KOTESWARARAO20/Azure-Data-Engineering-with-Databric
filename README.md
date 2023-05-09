@@ -1,4 +1,5 @@
-# Azure-Data-Engineering-with-Databric
+# Azure-Data-Engineering-with-Databricks
+
 In this project, we used the Azure Cloud Services to design and orchestrate a data pipeline to perform data engineering operations (Ingestion, Transformation, Analysis, Load) on a Formula 1 Racing Dataset
 
 # Formula 1 Racing Data Pipeline 🏎️
